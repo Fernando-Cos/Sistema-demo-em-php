@@ -16,3 +16,9 @@ Estar totalmente funcional!!!
 
 
 ![Capturar3](https://user-images.githubusercontent.com/69087075/104437778-f9762d80-556d-11eb-98c0-0eda51f13807.PNG)
+
+# Esquema Sucinta do DB para eventuais consultas.
+## db_user_system
+
+![Capturar](https://user-images.githubusercontent.com/69087075/104440682-6a6b1480-5571-11eb-9a88-3f60c4ae117e.PNG)
+
