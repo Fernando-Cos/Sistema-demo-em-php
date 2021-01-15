@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,500,600,700,800,900display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: 'Arial',sans-serif;
+}	
+
+body {
+	height: 100vh;
+	background-image: radial-gradient(circle farthest-corner at -3.1% -4.3%, rgba(155 175 197) 0%, rgba(21,38, 32, 1) 90%);
+}
+
+.wrapper {
+	height: 100vh;
+}
+
+.myColor {
+	background-image: linear-gradient(to right, #1d3046 50%, #007bff 150%);
+}
+
+.myShadow {
+	box-shadow: -8px 5px 10px #111;
+}
+
+.myBtn {
+	border-radius: 12px;
+	font-weight: bold;
+	font-size: 20px;
+	background-image: linear-gradient(to right, #1d2525 0%, #495aff 100%);
+	border: none;
+}
+
+.myBtn:hover {
+	background-image: linear-gradient(to right, #898992 0%, #495afe 100%);
+
+}
+
+.myHr {
+	height: 2px;
+	border-radius: 2px solid #fff;
+}
+
+@media (max-width: 720px) {
+	.wrapper {
+		margin: 2px;
+	}
+}
+
+h1, h5 {
+	color: #10539d;
+}
+
