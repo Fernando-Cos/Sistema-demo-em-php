@@ -13,6 +13,10 @@ Estar totalmente funcional!!!
 
 ![Capturar2](https://user-images.githubusercontent.com/69087075/104437770-f7ac6a00-556d-11eb-92da-e532816e4bfb.PNG)
 
+![Capturar](https://user-images.githubusercontent.com/69087075/105501939-9db15000-5ca3-11eb-8534-b97c3d07ddad.PNG)
+
+![Capturar1](https://user-images.githubusercontent.com/69087075/105501946-9f7b1380-5ca3-11eb-8331-3875f2baf025.PNG)
+
 
 ![Capturar3](https://user-images.githubusercontent.com/69087075/104437778-f9762d80-556d-11eb-98c0-0eda51f13807.PNG)
 
